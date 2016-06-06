@@ -1,7 +1,7 @@
 #!/bin/bash
-# Installs Square's IntelliJ configs into your user configs.
+# Installs Mada's IntelliJ configs into your user configs.
 
-echo "Installing Square IntelliJ configs..."
+echo "Installing Mada IntelliJ configs..."
 
 CONFIGS="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/configs"
 
