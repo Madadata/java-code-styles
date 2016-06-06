@@ -38,7 +38,7 @@
   <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
   <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
-  <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+  <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
   <option name="ALIGN_MULTILINE_FOR" value="false" />
   <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
   <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -108,7 +108,7 @@
   <codeStyleSettings language="CoffeeScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
@@ -117,7 +117,7 @@
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
@@ -158,7 +158,7 @@
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -208,7 +208,7 @@
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
@@ -252,7 +252,7 @@
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
